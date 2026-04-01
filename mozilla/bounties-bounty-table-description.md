@@ -1,6 +1,24 @@
 Our rewards are based on the severity of the issue and the criticality of the service or application. The bounty table lists the range of bounties we pay for vulnerabilities in our applications and **does not apply on out of scope reports**.
 
-The severity is calculated based on the impact of the vulnerability and the likelihood of finding and exploitating the vulnerability. Below are the definitions of each impact and likelihood level and some examples. Note that these lists are not extensive and the final severity decision is up to the discretion of Mozilla.
+The severity is calculated based on the impact of the vulnerability and the likelihood of finding and exploitating the vulnerability, using the below table:
+
+| Impact | Likelihood | Severity
+| ------ | ---------- | ------- |
+| Critical | High | Critical |
+| Critical | Medium | High |
+| Critical | Low | Medium |
+| High | High | Critical |
+| High | Medium | High |
+| High | Low | Medium |
+| Medium | High | High |
+| Medium | Medium | Medium |
+| Medium | Low | Low |
+| Low | High | Medium |
+| Low | Medium | Low |
+| Low | Low | Informational |
+
+
+Below are the definitions of each impact and likelihood level and some examples. Note that these lists are not extensive and the final severity decision is up to the discretion of Mozilla.
 
 # Impact Definitions and Examples
 
