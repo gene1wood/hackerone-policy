@@ -44,7 +44,7 @@ Critical vulnerabilities are urgent security issues that present an ongoing or i
 * Clickjacking with demonstrated impact (Lack of clickjacking protection (XFO, CSP) is insufficient to claim a bounty)
 * External SSRF
 
-**Note that some low severity issues are not eligible for monetary awards based on their impact.
+**Note that some low severity issues are not eligible for monetary awards based on their impact.**
 
 # Likelihood Definitions and Examples
 
