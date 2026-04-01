@@ -20,10 +20,12 @@ Please check the list of sites under the Scope section, we would like testing to
 # Submission Guidelines
 
 * Make sure to review our program policy and scope before submitting to our program.
-* Make sure to use the provided submission template in the report.
-* We would like to have enough information to validate the report, but excessively verbose and long reports which don't include good information also create additional burden on the triage team.
+* Make sure to use the provided submission template in the report. The report should only include the summary of the issue, clear steps to reproduce, supporting proof of concept and the impact statement.
+* Make sure to add supporting evidence for the bug by including screenshots and video PoC to clearly show the steps to reproduce
+* We would like to have enough information to validate the report, but excessively verbose and long reports which don't include good information also create additional burden on the triage team. This point also applies to follow up comments and answers to our questions.
 * Our program policy lists an extensive list of out of scope vulnerabilities, including [invalid reports which are frequently reported](https://bugzilla.mozilla.org/show_bug.cgi?id=1830029). Make sure the issue you are reporting is not one of them.
 * When reporting information disclosure vulnerabilities, note that most Mozilla projects and code are open source and content on most sites is intentionally public.
+* Reports in Firefox clients are out of scope of our program and they should be submitted using the form: bugzilla.mozilla.org/form.client.bounty
 
 # Program Rules
 
