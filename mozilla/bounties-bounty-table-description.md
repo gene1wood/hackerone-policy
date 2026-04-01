@@ -66,12 +66,12 @@ Below are some of the factors we take into consideration when determining the li
 ## Medium
 
 * The vulnerability requires one user interaction to be exploited
-* The vulnerability can be exploited using low level permissions which are provided to regular users
+* The vulnerability requires low level permissions which are provided to regular users to be exploited
 
 ## Low
 
-* The vulnerability can be exploited using admin access or high level permissions which are only given to specific users
-* The vulnerability can be exploited using local device access
+* The vulnerability requires admin access or high level permissions which are only given to specific users to be exploited
+* The vulnerability requires local device access to be exploited
 * The vulnerability requires multiple user interactions to be exploited
 * The vulnerability is mitigated by WAF, CSP or other security controls
  
