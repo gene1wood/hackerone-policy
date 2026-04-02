@@ -1,4 +1,4 @@
-Our rewards are based on the severity of the issue and the criticality of the service or application. The bounty table lists the range of bounties we pay for vulnerabilities in our applications and **does not apply on out of scope reports**.
+Our rewards are based on the severity of the issue and the criticality of the service or application. The bounty table lists the range of bounties we pay for vulnerabilities in our applications and **does not apply to out of scope reports**.
 
 The severity is calculated based on the impact of the vulnerability and the likelihood of finding and exploitating the vulnerability, using the below table:
 
@@ -26,7 +26,7 @@ Below are the definitions of each impact and likelihood level and some examples.
 
 Critical vulnerabilities are urgent security issues that present an ongoing or immediate danger to the users of our services and our infrastructure
 
-* Remote Code Execution with unauthenticated public internet access
+* Remote Code Execution from an unauthenticated public internet position
 * Authentication and Session Management Flaws (which lead to account compromise and takeover)
 * Disclosure of secrets in publicly accessible assets
 * Hardcoded credentials for a privileged user
@@ -79,6 +79,7 @@ Below are some of the factors we take into consideration when determining the li
 
 * The vulnerability can be exploited using unauthenticated public internet access
 * The vulnerability can be exploited using an authenticated regular user without any special privileges
+* The vulnerability can be exploited without any user interaction
 * Hard corded credentials in a publicly accessible resource
 
 ## Medium
@@ -88,7 +89,7 @@ Below are some of the factors we take into consideration when determining the li
 
 ## Low
 
-* The vulnerability requires admin access or high level permissions which are only given to specific users to be exploited
+* The vulnerability requires admin access or high level permissions which are only given to specific users in order to be exploited
 * The vulnerability requires local device access to be exploited
 * The vulnerability requires multiple user interactions to be exploited
 * The vulnerability is mitigated by WAF, CSP or other security controls
