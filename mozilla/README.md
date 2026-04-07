@@ -3,3 +3,4 @@
 * [`submit-report-form-introduction.md`](submit-report-form-introduction.md) : https://hackerone.com/mozilla/submission_form
 * [`submit-report-form-report-template.md`](submit-report-form-report-template.md) : https://hackerone.com/mozilla/submission_form
 * [`submit-report-form-impact-template.md`](submit-report-form-impact-template.md) : https://hackerone.com/mozilla/submission_form
+* [`introduction.md`](introduction.md) : https://hackerone.com/mozilla/policy (In the `Overview`... `Introduction` field)
