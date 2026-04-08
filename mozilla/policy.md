@@ -38,7 +38,7 @@ Critical vulnerabilities are urgent security issues that present an ongoing or i
 * XML External Entity (XXE) attack
 * Hardcoded credentials for a non-privileged user
 
-## Moderate
+## Medium
 
  Vulnerabilities which can provide an attacker additional information or positioning that could be used in combination with other vulnerabilities. In addition to issues resulting from the lack of standard defense in depth techniques and security controls.
 
